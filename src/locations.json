@@ -1,0 +1,42 @@
+[
+	{
+		"id" : 1,
+		"name" : "Singtel Exclusive Retail - Heartland Mall",
+		"street" : "205 Hougang Street",
+		"city" : "Singapore",
+		"zip" : "530205",
+		"phone" : "6281 0188"
+	},
+	{
+		"id" : 2,
+		"name" : "Singtel Exclusive Retail - NEX Shopping Mall",
+		"street" : "Serangoon Central",
+		"city" : "Singapore",
+		"zip" : "556083",
+		"phone" : "6634 3833"
+	},
+	{
+		"id" : 3,
+		"name" : "Singtel Shop - Bugis Junction",
+		"street" : "200 Victoria Street",
+		"city" : "Singapore",
+		"zip" : "188021",
+		"phone" : "6235 1688"
+	},
+	{
+		"id" : 4,
+		"name" : "Singtel Exclusive Retail - Whitesands",
+		"street" : "1 Pasir Ris Central Street 3",
+		"city" : "Singapore",
+		"zip" : "518457",
+		"phone" : "6585 0500"
+	},
+	{
+		"id" : 5,
+		"name" : "Singtel Shop - Changi City Point",
+		"street" : "5 Changi Business Park Central",
+		"city" : "Singapore",
+		"zip" : "486038",
+		"phone" : "6281 0188"
+	}
+]
