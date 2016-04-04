@@ -6,7 +6,7 @@ Tools used
 - node and npm
 - gulp
 
-If you want to learn step by step how to build this website then you can learn it from the actual source of the project above [Eduonix Learn Angular by building 10 projects] (https://www.udemy.com/learn-angularjs-development/).
+The above project was created by following the steps given in the tutorial at [Eduonix](https://www.udemy.com/learn-angularjs-development/)
 
 clone repo and run the following commands
 `npm start`
